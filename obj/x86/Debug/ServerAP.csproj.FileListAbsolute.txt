@@ -1,0 +1,8 @@
+C:\Users\ESicc\Desktop\ServerAP\bin\Debug\ServerAP.exe
+C:\Users\ESicc\Desktop\ServerAP\bin\Debug\ServerAP.pdb
+C:\Users\ESicc\Desktop\ServerAP\obj\x86\Debug\ServerAP.csprojResolveAssemblyReference.cache
+C:\Users\ESicc\Desktop\ServerAP\obj\x86\Debug\ServerAP.Form1.resources
+C:\Users\ESicc\Desktop\ServerAP\obj\x86\Debug\ServerAP.Properties.Resources.resources
+C:\Users\ESicc\Desktop\ServerAP\obj\x86\Debug\ServerAP.csproj.GenerateResource.Cache
+C:\Users\ESicc\Desktop\ServerAP\obj\x86\Debug\ServerAP.exe
+C:\Users\ESicc\Desktop\ServerAP\obj\x86\Debug\ServerAP.pdb

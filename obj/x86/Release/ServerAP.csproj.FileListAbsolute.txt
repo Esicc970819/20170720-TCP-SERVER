@@ -1,0 +1,8 @@
+C:\CSharp\MyToolkit\ServerAP\bin\Release\ServerAP.exe
+C:\CSharp\MyToolkit\ServerAP\bin\Release\ServerAP.pdb
+C:\CSharp\MyToolkit\ServerAP\obj\x86\Release\ServerAP.Form1.resources
+C:\CSharp\MyToolkit\ServerAP\obj\x86\Release\ServerAP.Properties.Resources.resources
+C:\CSharp\MyToolkit\ServerAP\obj\x86\Release\ServerAP.csproj.GenerateResource.Cache
+C:\CSharp\MyToolkit\ServerAP\obj\x86\Release\ServerAP.exe
+C:\CSharp\MyToolkit\ServerAP\obj\x86\Release\ServerAP.pdb
+C:\CSharp\MyToolkit\ServerAP\obj\x86\Release\ServerAP.csprojResolveAssemblyReference.cache
